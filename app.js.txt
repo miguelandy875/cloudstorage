@@ -1,4 +1,4 @@
-import React, { useState, createContext, useContext, useEffect } from 'react';
+import React, { useState, createContext, useContext, useEffect } from 'react'
 import { 
   Wallet, 
   Send, 
@@ -1912,4 +1912,5 @@ const ReceivePage = () => {
 
   return (
     <div className="max-w-lg mx-auto">
+
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 border border
